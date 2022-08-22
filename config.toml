@@ -1,6 +1,6 @@
 baseURL = "https://kellyshee.netlify.app/"
 languageCode = "en-us"
-title = "Anubis"
+title = "Kelly Shee"
 theme = "hugo-theme-anubis"
 paginate = 3
 
@@ -8,11 +8,11 @@ disqusShortname = ""
 googleAnalytics = ""
 
 [author]
-name = "Dmitry Kolosov"
+name = "Kelly Shee"
 
 [params]
-author = "Dmitry Kolosov"
-description = "Anubis is a simple minimalist theme for Hugo blog engine."
+author = "Kelly Shee"
+description = "My personal website."
 dateFormat = "2006-01-02"
 paginationSinglePost = true
 style = "auto"
