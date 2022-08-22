@@ -1,4 +1,4 @@
-baseURL = "https://kellyshee.netlify.app"
+baseURL = "https://kellyshee.netlify.app/"
 languageCode = "en-us"
 title = "Anubis"
 theme = "hugo-theme-anubis"
