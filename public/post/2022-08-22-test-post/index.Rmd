@@ -1,0 +1,22 @@
+---
+title: Test Post
+author: Package Build
+date: '2022-08-22'
+slug: []
+categories:
+  - R
+  - test
+tags:
+  - plot
+---
+
+## Header 1
+
+Some text.
+
+## Header 2
+
+```{r}
+my_data <- mtcars
+plot(mtcars)
+```
