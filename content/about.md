@@ -23,5 +23,15 @@ menu:
 
 I am currently a student at the University of California, Santa Barbara studying Economics. The goal of this website is to showcase my projects and improve my data wrangling skills. Hopefully you'll find something interesting while you're here!
 
+# Credits
+
+It took a village to build this website. Those villagers are:
+
+- ["Best R Hugo Blogdown Site End to End Tutorial"](https://bit.ly/3cfIuHi) by Mark Gingrass
+
+- [*blogdown: Creating Websites with R Markdown*](https://bookdown.org/yihui/blogdown/) by Yihui Xie, Amber Thomas, Alison Presmanes Hill
+
+- [*Data Wrangling for Economists*](https://michaeltopper1.github.io/data-wrangling-econ-book/) by Michael Topper and Danny Klinenberg
+
 
 
