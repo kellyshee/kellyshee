@@ -23,11 +23,13 @@ menu:
 
 I am currently a student at the University of California, Santa Barbara studying Economics. The goal of this website is to showcase my projects and improve my data wrangling skills. Hopefully you'll find something interesting while you're here!
 
+![Sunset at Sands Beach](~Desktop/econ_practice/kellyshee/sands_beach_sunset.jpg) 
+
 # Credits
 
-It took a village to build this website. Those villagers are:
+It took a village (and 3 frustrating days before I discovered [CradletoGraveR](https://www.youtube.com/c/CradleToGraveR)) to build this website. Those villagers are:
 
-- ["Best R Hugo Blogdown Site End to End Tutorial"](https://bit.ly/3cfIuHi) by Mark Gingrass
+- ["Best R Hugo Blogdown Site End to End Tutorial"](https://bit.ly/3cfIuHi) by Mark Gingrass (CradletoGraveR)
 
 - [*blogdown: Creating Websites with R Markdown*](https://bookdown.org/yihui/blogdown/) by Yihui Xie, Amber Thomas, Alison Presmanes Hill
 
