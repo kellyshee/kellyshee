@@ -23,9 +23,14 @@ menu:
 
 I am currently a student at the University of California, Santa Barbara studying Economics. The goal of this website is to showcase my projects and improve my data wrangling skills. Hopefully you'll find something interesting while you're here!
 
+&nbsp;
 
 ![Sunset at Sands Beach](/./about_files/sands_beach_sunset.jpg)
+<center>
+Sunset at Sands Beach 04/05/22
+</center>
 
+&nbsp;
 
 # Credits
 
@@ -37,5 +42,8 @@ It took a village (and 3 frustrating days before I discovered [CradletoGraveR](h
 
 - [*Data Wrangling for Economists*](https://michaeltopper1.github.io/data-wrangling-econ-book/) by Michael Topper and Danny Klinenberg
 
+- [Joe Yuke's blog](https://jo3yuk3.github.io/index.html) for inspiration
+
+Check them out! They're some of the least confusing website-building resources online.
 
 
