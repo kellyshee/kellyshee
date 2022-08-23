@@ -23,7 +23,7 @@ menu:
 
 I am currently a student at the University of California, Santa Barbara studying Economics. The goal of this website is to showcase my projects and improve my data wrangling skills. Hopefully you'll find something interesting while you're here!
 
-![Sunset at Sands Beach](~Desktop/econ_practice/kellyshee/sands_beach_sunset.jpg) 
+![Sunset at Sands Beach](~/Desktop/econ_practice/kellyshee/static/sands_beach_sunset.jpg)
 
 # Credits
 
