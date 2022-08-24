@@ -38,7 +38,7 @@ It took a village (and 3 frustrating days before I discovered [CradletoGraveR](h
 
 - ["Best R Hugo Blogdown Site End to End Tutorial"](https://bit.ly/3cfIuHi) by Mark Gingrass (CradletoGraveR)
 
-- [*blogdown: Creating Websites with R Markdown*](https://bookdown.org/yihui/blogdown/) by Yihui Xie, Amber Thomas, Alison Presmanes Hill
+- [*blogdown: Creating Websites with R Markdown*](https://bookdown.org/yihui/blogdown/) by Yihui Xie, Amber Thomas, and Alison Presmanes Hill
 
 - [*Data Wrangling for Economists*](https://michaeltopper1.github.io/data-wrangling-econ-book/) by Michael Topper and Danny Klinenberg
 
