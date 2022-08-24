@@ -1,22 +1,12 @@
 ---
-title: Test Post
+title: Hello There
 author: Package Build
 date: '2022-08-22'
 slug: []
-categories:
-  - R
-  - test
-tags:
-  - plot
 ---
 
-## Header 1
+Congrats on reaching my first post! Here's a picture of evil Storke Tower to occupy you while I work on my posts.
 
-Some text.
-
-## Header 2
-
-```{r}
-my_data <- mtcars
-plot(mtcars)
-```
+&nbsp;
+![Storke Tower at Night](images/storke_tower_evil.jpg)
+&nbsp;
