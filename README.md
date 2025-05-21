@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+- Create a new repo
+- Name it your username
+- Public
+- Can now control personal readme!
+
 <!--
 **kellyshee/kellyshee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
